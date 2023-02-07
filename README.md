@@ -8,7 +8,7 @@ Developed a chatbot application using React.js, Node.js Express.js and OpenAI AP
 <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS%20-%23039BE5.svg?&style=for-the-badge&logo=react&logoColor=white""/>
 <img alt="OpenAI API" src="https://img.shields.io/badge/openai api3%20-%231572B6.svg?&style=for-the-badge&logo=openAI&logoColor=white"/>
 
-# Working Of The System
+# Chat Bot Working
 
 https://user-images.githubusercontent.com/54280252/217198729-c6cf6b60-514b-4caa-b9b7-a6319350d8ba.mp4
 
